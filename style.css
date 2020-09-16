@@ -1,0 +1,16 @@
+.body {
+    background-color: lightgrey;
+}
+
+.container {
+    position: relative;
+    background-color: lightgray;
+    max-width: 1024px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+
+.ava {
+    width: 300px;
+}
